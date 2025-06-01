@@ -1,0 +1,1 @@
+Place your Rook-Ceph operator manifests here.

@@ -1,0 +1,1 @@
+Place your CephCluster and storage manifests here.
